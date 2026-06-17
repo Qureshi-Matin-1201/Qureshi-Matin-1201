@@ -1,16 +1,29 @@
-## Hi there 👋
-
-<!--
-**Qureshi-Matin-1201/Qureshi-Matin-1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Matin Qureshi
+About Me
+•	5-Year Integrated M.Sc. Computer Science Student
+•	Department of Computer Science, Gujarat University, Ahmedabad, Gujarat
+•	Bachelor's Degree Completed | Currently Pursuing Master's Studies
+•	Aspiring Full Stack Developer (Frontend + Backend + Database)
+Technical Skills
+Frontend Development
+•	HTML
+•	CSS
+•	JavaScript
+Backend Development
+•	Python
+•	PHP
+Database
+•	MySQL
+•	SQLite
+Frameworks
+•	Django
+Tools & Software
+•	Visual Studio Code (VS Code)
+•	GitHub
+•	Microsoft Word
+•	Microsoft Excel
+•	Microsoft PowerPoint
+Connect With Me
+•	Email: qureshimatin12106@gmail.com
+•	GitHub: https://github.com/Qureshi-Matin-1201
+•	LinkedIn: https://linkedin.com/in/qureshi-matin1201
