@@ -9,33 +9,36 @@
 
 ## Technical Skills
 
-### Frontend Development
+### Programming Languages
+- Python
+- Java
+- JavaScript
 
-* HTML
-* CSS
-* JavaScript
+### Frontend Technologies
+- HTML5
+- CSS3
 
-### Backend Development
+### Backend Framework
+- Django
 
-* Python
-* PHP
+### Databases
+- MySQL
+- SQLite
 
-### Database
+### Development Tools & Version Control
+- Visual Studio Code (VS Code)
+- GitHub
+- MySQL Workbench
+- Jupyter Notebook
+- XAMPP
 
-* MySQL
-* SQLite
+### AI & Machine Learning Tools
+- Hugging Face
 
-### Frameworks
-
-* Django
-
-### Tools & Software
-
-* Visual Studio Code (VS Code)
-* GitHub
-* Microsoft Word
-* Microsoft Excel
-* Microsoft PowerPoint
+### Microsoft Office
+- Microsoft Word
+- Microsoft Excel
+- Microsoft PowerPoint
 
 ## Connect With Me
 
